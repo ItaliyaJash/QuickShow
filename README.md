@@ -12,7 +12,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 ![Maintenance](https://img.shields.io/maintenance/yes/2026)
 
-[**Live Demo**](#live-demo) • [**Documentation**](#documentation) • [**Report Bug**](#support) • [**Request Feature**](#support)
+[**Live Demo**](https://quick-show-client-007.vercel.app/) • [**Documentation**](#documentation) • [**Report Bug**](#support) • [**Request Feature**](#support)
 
 </div>
 
